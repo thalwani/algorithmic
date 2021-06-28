@@ -41,6 +41,12 @@ build/Release
 node_modules/
 jspm_packages/
 
+HashTables/node_modules/
+LinkedList/node_modules/
+Queues/node_modules/
+Stacks/node_modules/
+Trees/node_modules/
+
 # TypeScript v1 declaration files
 typings/
 
